@@ -1,9 +1,11 @@
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://imgbb.com/">
-    <img src="https://github.com/GoMartProject/gomart-assets/blob/main/GoMart-Logo.png" alt="Logo" width="100" height="120">
+  <a href="#">
+    <img src="https://github.com/GoMartProject/gomart-assets/blob/main/GoMart-Logo.png" alt="Logo" width="auto" height="150">
+     <h3 align="center">GoMart</h3>
+
   </a>
+</div>
 
   <h3 align="center">GoMart Project Machine Learning Model</h3>
   </h3>
